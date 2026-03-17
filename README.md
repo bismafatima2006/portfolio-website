@@ -14,4 +14,4 @@ Hi, I'm Bisma 👋
 - Portfolio Website (in progress)
 
 ## 📫 Contact
-- LinkedIn: (add later)
+- LinkedIn: https://www.linkedin.com/in/bisma-fatima-595143318?utm_source=share_via&utm_content=profile&utm_medium=member_android
