@@ -1,17 +1,42 @@
-# Portfolio Website 👩‍💻
+<h1 align="center">Bisma Fatima</h1>
+<p align="center">
+  Computer Science Student • Web Developer • UI/UX Enthusiast
+</p>
 
-Hi, I'm Bisma 👋  
+---
 
-🎓 Computer Science Student  
-💻 Web Developer | UI/UX Designer  
+## 👩‍💻 About Me
+- 🎓 Computer Science student with a strong interest in technology  
+- 💻 Passionate about **Web Development** and **UI/UX Design**  
+- 🌱 Currently enhancing my **frontend development skills**  
+- 🚀 Actively working on building my **Portfolio Website**  
 
-## 🚀 Skills
-- HTML, CSS
-- C++
-- Figma
+---
+
+## 🛠️ Skills
+- **Frontend Development:** HTML, CSS  
+- **Programming Languages:** C++ , JAVA, PYTHON
+- **GRAPHIC DESIGNING:** ADOBE PHOTOSHOP, ILLUSTRATOR
+
+---
 
 ## 📂 Projects
-- Portfolio Website (in progress)
+- 🎮 Tic-Tac-Toe  
+- 🏥 Patient Queue System  
+- 🔢 Sudoku Solver  
+- 🔐 Steganography Tool  
+- 🏠 Smart Home System  
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/bisma-fatima-595143318?utm_source=share_via&utm_content=profile&utm_medium=member_android
+---
+
+## 📫 Connect with Me
+- 🔗 LinkedIn:  
+  https://www.linkedin.com/in/bisma-fatima-595143318  
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bisma-cs&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="90%" />
+</p>
